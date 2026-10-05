@@ -5,7 +5,7 @@ import math
 
 # CONFIGURATION
 
-ROLL_NUMBER = "01136232076" 
+ROLL_NUMBER = "01-136232-076"
 SEED_VAL = int(''.join(filter(str.isdigit, ROLL_NUMBER)))
 
 GRID_SIZE = 20
