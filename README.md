@@ -21,3 +21,6 @@ In this continuous PSO implementation:
 1. Ensure Python is installed with the required libraries:
    ```bash
    pip install numpy matplotlib
+
+   ## Flow Diagram
+![PSO Flowchart](flowchart.jpg)
